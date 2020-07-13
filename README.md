@@ -1,5 +1,5 @@
 
-[!Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francielebarbosaoliveira/)](https://www.linkedin.com/in/francielebarbosaoliveira/)
+(https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francielebarbosaoliveira/)
 ### Welcome to my profile 👋
 
 <!--
