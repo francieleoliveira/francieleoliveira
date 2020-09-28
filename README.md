@@ -15,7 +15,7 @@
 <ul>
   <li>😄 Fearless woman in a software developer world</li>
  <li>⚡ I'm looking to meet other women to help inspire myself and others! </li>
- <li>🌱 I’m currently learning Javascript, React</li>
+ <li>🌱 Learning...</li>
  <li>👯 I’m looking to collaborate on people's life</li>
 
  <li>📫 How to reach me: franciele1995@gmail.com</li>
